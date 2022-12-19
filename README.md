@@ -42,3 +42,5 @@
 - [Week 1: Building your Recurrent Neural Network - Step by Step](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W1%20-%20Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
 - [Week 1: Dinosaur Island-Character-Level Language Modeling](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W1%20-%20Dinosaurus_Island_Character_level_language_model.ipynb)
 - [Week 1: Jazz Improvisation with LSTM](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W1%20-%20Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+- [Week 2: Operations on Word Vectors - Debiasing](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W2%20-%20Operations_on_word_vectors_v2a.ipynb)
+- [Week 2: Emojify](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W2%20-%20Emoji_v3a.ipynb)
