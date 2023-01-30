@@ -1,6 +1,8 @@
 # Deep Learning Specialization
 
-## [Course 1 : Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/1)
+## Course 1 : Neural Networks and Deep Learning
+
+### [Course](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/1)
 
 ### Programming Assignments
 
@@ -10,7 +12,9 @@
 - [Week 4: Deep Neural Network - Application](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/W4%20-%20Deep%20Neural%20Network%20-%20Application.ipynb)
 
 
-## [Course 2 : Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/week/1)
+## Course 2 : Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+
+### [Course](https://www.coursera.org/learn/deep-neural-network/home/week/1)
 
 ### Programming Assignments
 - [Week 1: Initialization](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/W1%20-%20Initialization.ipynb)
@@ -20,10 +24,13 @@
 - [Week 3: TensorFlow Introduction](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/W3%20-%20Tensorflow_introduction.ipynb)
 
 
-## [Course 3 : Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/week/2)
+## Course 3 : Structuring Machine Learning Projects
 
+### [Course](https://www.coursera.org/learn/machine-learning-projects/home/week/2)
 
-## [Course 4 : Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/week/1)
+## Course 4 : Convolutional Neural Networks
+
+### [Course](https://www.coursera.org/learn/convolutional-neural-networks/home/week/1)
 
 ### Programming Assignments
 - [Week 1: Convolutional Model, Step by Step](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C4%20-%20Convolutional%20Neural%20Networks/W1%20-%20Convolution_model_Step_by_Step_v1.ipynb)
@@ -36,7 +43,9 @@
 - [Week 4: Art Generation with Neural Style Transfer](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C4%20-%20Convolutional%20Neural%20Networks/W4%20-%20Art_Generation_with_Neural_Style_Transfer.ipynb)
 
 
-## [Course 5 : Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/week/1)
+## Course 5 : Sequence Models
+
+### [Course](https://www.coursera.org/learn/nlp-sequence-models/home/week/1)
 
 ### Programming Assignments
 - [Week 1: Building your Recurrent Neural Network - Step by Step](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W1%20-%20Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
