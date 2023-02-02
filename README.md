@@ -53,3 +53,5 @@
 - [Week 1: Jazz Improvisation with LSTM](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W1%20-%20Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
 - [Week 2: Operations on Word Vectors - Debiasing](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W2%20-%20Operations_on_word_vectors_v2a.ipynb)
 - [Week 2: Emojify](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W2%20-%20Emoji_v3a.ipynb)
+- [Week 3: Neural Machine Translation](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W3%20-%20Neural_machine_translation_with_attention_v4a.ipynb)
+- [Week 3: Trigger Word Detection](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W3%20-%20Trigger_word_detection_v2a.ipynb)
