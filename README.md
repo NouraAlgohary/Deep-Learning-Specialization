@@ -55,3 +55,4 @@
 - [Week 2: Emojify](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W2%20-%20Emoji_v3a.ipynb)
 - [Week 3: Neural Machine Translation](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W3%20-%20Neural_machine_translation_with_attention_v4a.ipynb)
 - [Week 3: Trigger Word Detection](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W3%20-%20Trigger_word_detection_v2a.ipynb)
+- [Week 4: Transformers Architecture with TensorFlow](https://github.com/NouraAlgohary/Deep-Learning-Specialization/blob/main/C5%20-%20Recurrent%20Neural%20Networks/W4%20-%20A1_Transformer_Subclass_v1.ipynb)
